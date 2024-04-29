@@ -1,0 +1,10 @@
+# google cloud platform - AI sdk
+vertexai
+
+# langChain integrations
+langchain
+langchain-google-vertexai
+
+# 3rd party
+streamlit
+streamlit_code_editor
